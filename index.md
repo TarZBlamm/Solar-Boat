@@ -7,7 +7,7 @@
 
 ## Solar Boat Reports
 
-
+[Link](Copy%20of%202018%20Elec%20Report.pdf)
 
 
 ```markdown
