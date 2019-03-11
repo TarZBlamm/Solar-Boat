@@ -2,7 +2,7 @@
 
 Solar Boat is an organization at my school that participates in the Solar Cup, the largest solar-powered boat race in the world.
 The competition itself consists of two events: sprint and endurance.
-Teams at participating schools have 9 months to construct a working solar-powered boat, provide two reports detailing the boat's schematics , and pass inspection.
+Teams at participating schools have 9 months to construct a working solar-powered boat, provide two reports detailing the boat's schematics , and pass inspection to be able to compete.
 The competition itself takes place during May at Lake Skinner and goes on for 3 days.
 
 
