@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
+##Solar Boat Pictures
 
-You can use the [editor on GitHub](https://github.com/TarzBlammo1/Solar-Boat/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ![Image](Building%20Hull.JPG)
 [Link](Copy%20of%20Drive%20Train%20Report.pdf)
 ![Image](At%20The%20Dock.JPG)
