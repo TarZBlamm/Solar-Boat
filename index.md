@@ -1,11 +1,12 @@
 ## Solar Boat Pictures
-
+### Image 1: <br>
 ![Image](Building%20Hull.JPG) <br>
-# Image 1: 
-
-![Image](At%20The%20Dock.JPG)
-![Image](Driving%20Boat.JPG)
-![Image](Preparing%20Boat.JPG)
+### Image 2: <br>
+![Image](At%20The%20Dock.JPG)<br>
+### Image 3: <br>
+![Image](Driving%20Boat.JPG)<br>
+### Image 4: <br>
+![Image](Preparing%20Boat.JPG)<br>
 
 ## Solar Boat Reports
 
