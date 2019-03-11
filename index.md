@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](https://github.com/TarzBlammo1/Solar-Boat/blob/master/Copy%20of%202018%20Elec%20Report.pdf) and ![Image](src)
 ```
-
+[Link](https://github.com/TarzBlammo1/Solar-Boat/blob/master/Copy%20of%202018%20Elec%20Report.pdf)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
