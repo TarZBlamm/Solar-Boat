@@ -8,7 +8,7 @@ The competition itself takes place during May at Lake Skinner and goes on for 3 
 
 ## Solar Boat Reports
 
-While I may not have written the whole report myself, I oversaw the entire process. I had to step in multiple times to show others how to make circuit diagrams, center of gravity and buoyancy calculations, and edit the report to make sure there were not any mistakes.
+While I may not have written the entirety of the reports myself, I oversaw the entire process. I had to step in multiple times to show others how to make circuit diagrams, center of gravity and buoyancy calculations, and edit the report to make sure there were not any mistakes.
 
 [Electrical Report 2018](Copy%20of%202018%20Elec%20Report.pdf)<br>
 [Drive Train Report 2018](Copy%20of%20Drive%20Train%20Report.pdf)
