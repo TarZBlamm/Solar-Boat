@@ -11,13 +11,13 @@ In order to propel the boat, we utilized a motor mounted to the the boat which r
 ## Awards
 ![Image](Solar%20Boat%20Awards.jpg)
 ### 2018
-1st place in Technical Reports in the Central and Bay Region
+1st place in Technical Reports in the Central and Bay Region<br>
 2nd place in the Endurance Race in the Central and Bay Region
 
 ### 2016
-1st Place in Technical Reports in the Central and Bay Region
-2nd place in the Endurance Race in the Central and Bay Region
-1st Place in the Sprint Race in the Central and Bay Region
+1st Place in Technical Reports in the Central and Bay Region<br>
+2nd place in the Endurance Race in the Central and Bay Region<br>
+1st Place in the Sprint Race in the Central and Bay Region<br>
 
 ## Solar Boat Reports 
 
