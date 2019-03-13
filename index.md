@@ -6,12 +6,18 @@ Teams at participating schools have 9 months to construct a working solar-powere
 The competition itself takes place during May at Lake Skinner and goes on for 3 days.
 
 ## How does it work?
-In order to propel the boat, we utilized a motor mounted to the the boat which rotated a three-bladed propeller. The motor is powered by two twelve volt Odyssey Extreme PC 11000 batteries. Six solar panels are used to charge the batteries in the boat. The motor has several safety switches implemented so that the boat doesn’t accidently turn on such as the kill and motor switches.
+In order to propel the boat, we utilized a motor mounted to the the boat which rotated a three-bladed propeller. The motor is powered by two twelve volt Odyssey Extreme PC 11000 batteries. Six solar panels are used to charge the batteries in the boat. The motor has several safety switches implemented so that the boat does not turn on by mistake.
 
-##Awards
+## Awards
 ![Image](Solar%20Boat%20Awards.jpg)
-In 2018, we won 1st place in technical reports and won 2nd place in the endurance race in the Central and Bay Region.
-In 2016, we won 1st place in technical reports and the sprint race and won 2nd place in the endurance race in the Central and Bay Region
+### 2018
+1st place in Technical Reports in the Central and Bay Region
+2nd place in the Endurance Race in the Central and Bay Region
+
+### 2016
+1st Place in Technical Reports in the Central and Bay Region
+2nd place in the Endurance Race in the Central and Bay Region
+1st Place in the Sprint Race in the Central and Bay Region
 
 ## Solar Boat Reports 
 
@@ -29,8 +35,8 @@ I made the following diagrams for the electrical report below using the Digi-Key
 ![Image](Solar%20Boat%20Control%20Circuit.png)
 <br>
 
-## Solar Boat Pictures
-### Image 1: Building the hull for the boat. It was being held by screws and epoxy, drilling a screw in the picture. <br>
+## Solar Boat Pictures 
+### Image 1: Building the hull for the boat. It is held by epoxy and screws. Currently drilling a screw into the hull.
 ![Image](Building%20Hull.JPG) <br>
 ### Image 2: Getting ready to race in the endurance event.<br>
 ![Image](At%20The%20Dock.JPG)<br>
