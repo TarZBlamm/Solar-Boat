@@ -36,21 +36,14 @@ I oversaw the process of writing experimental reports. I also made circuit diagr
 I made the following diagrams for the electrical report below using the Digi-Key online circuit maker.
 
 
-### Solar Boat Power Circuit
+### Power Circuit
 ![Image](Solar-Boat-Power-Circuit.png)
 <br>
-### Solar Boat Control Circuit
+### Control Circuit
 ![Image](Solar-Boat-Control-Circuit.png)
 <br>
 
-### Power Circuit
-![Image](Solar%20Boat%20Power%20Circuit.png)
-<br>
-### Control Circuit
-![Image](Solar%20Boat%20Control%20Circuit.png)
-<br>
-
-## Pictures (I really need help for these captions, they just seem bad, I don’t really know how descriptive to be and what is considered an acceptable length for a caption)
+## Pictures 
 Building the hull for the boat. The clamps in the picture were meant to hold the sides together to give time for the epoxy we applied on those areas to cure. I was drilling a screw into the hull to provide more reinforcement to the overall structure. All of the materials seen were provided at a boat-building workshop sponsored by the Metropolitan Water District.
 ![Image](Building%20Hull.JPG) <br>
 Preparing the boat for the endurance event. The six solar panels on the boat were from Sacred Solar and the nominal power for each unit is 60 watts. With the batteries fully charged, this allowed for one and a half hours of run time at a speed of 15 miles per hour. <br>
