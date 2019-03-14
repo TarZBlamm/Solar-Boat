@@ -45,7 +45,7 @@ I made the following diagrams for the electrical report below using the Digi-Key
  
 ## Pictures 
 ![Image](Building%20Hull.JPG) <br>
-###### Building the hull for the boat. The clamps in the picture were meant to hold the sides together to give time for the epoxy we applied on those areas to cure. I was drilling a screw into the hull to provide more reinforcement to the overall structure. All of the materials seen were provided at a boat-building workshop sponsored by the Metropolitan Water District. <br>
+<figcaption> Building the hull for the boat. The clamps in the picture were meant to hold the sides together to give time for the epoxy we applied on those areas to cure. I was drilling a screw into the hull to provide more reinforcement to the overall structure. All of the materials seen were provided at a boat-building workshop sponsored by the Metropolitan Water District. </figcaption> <br>
 
 ![Image](Preparing%20Boat.JPG)<br>
 ###### Preparing the boat for the endurance event. The six solar panels on the boat were from Sacred Solar and the nominal power for each unit is 60 watts. With the batteries fully charged, this allowed for one and a half hours of run time at a speed of 15 miles per hour. <br>
