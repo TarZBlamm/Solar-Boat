@@ -29,10 +29,10 @@ I oversaw the process of writing experimental reports. I also made circuit diagr
 I made the following diagrams for the electrical report below using the Digi-Key online circuit maker.
 
 ### Solar Boat Power Circuit
-![Image](Solar%20Boat%20Power%20Circuit.png)
+![Image](Solar-Boat-Power-Circuit.png)
 <br>
 ### Solar Boat Control Circuit
-![Image](Solar%20Boat%20Control%20Circuit.png)
+![Image](Solar-Boat-Control-Circuit.png)
 <br>
 
 ## Solar Boat Pictures 
