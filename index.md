@@ -28,23 +28,12 @@ The boat is steered through a lever connected by a push-pull rod to a rudder at 
 ### Electrical System
 The electrical system in the boat is a fairly simple series circuit. The essentially components that make it up are the controller, contactor, safety switches, pedal, and the two twelve volt batteries. In order for the boat to actually run, all the safety switches must be activated. These switches are in place so as to prevent the boat’s motor from accidentally turning on. Additionally, there are fuses in place to break the circuit the second the current value gets too high. The contactor is a huge switch that is connected to the pedal in the front of boat that triggers when the pedal is pushed down. Ultimately, this boat’s motor wouldn’t turn at all if it weren’t for the two twelve volt batteries to power it.
 
+More details about how the boat works below in the reports section.
+
 ## My History With the Program
 I was in the organization for four years. During that time, I went from a regular member to battery manager to co-president. My job as battery manager was to test and maintain the batteries used for the competition. This position taught me how to use a load tester, a device used to simulate real load conditions, to see how long the battery could remain at a working voltage level to power the motor. I picked up on this relatively quickly and was able to easily teach someone else how to manage the system. 
 
 As co-president, my job changed from doing the labor to teaching others how to do it. I taught the newer members how to recognize tools, like screwdrivers, load testers, and multimeters, and how to use them. Since we had new advisors that year, I had to step up to the plate and fill out all the necessary paperwork, such as permission slips and activity clearance forms, in order to be able to participate in the various workshops and the competition itself. I became much more organized and disciplined as a result. 
-
-
-
-## Awards
-![Image](Solar%20Boat%20Awards.jpg)
-### 2018
-1st Place in Technical Reports in the Central and Bay Region<br>
-2nd Place in the Endurance Race in the Central and Bay Region<br>
-
-### 2016
-1st Place in Technical Reports in the Central and Bay Region<br>
-2nd Place in the Endurance Race in the Central and Bay Region<br>
-1st Place in the Sprint Race in the Central and Bay Region<br>
 
 ## Reports 
 
@@ -62,7 +51,18 @@ I made the following diagrams for the electrical report below using the Digi-Key
 ### Control Circuit
 ![Image](Solar-Boat-Control-Circuit.png)
 <br>
- 
+
+## Awards
+![Image](Solar%20Boat%20Awards.jpg)
+### 2018
+1st Place in Technical Reports in the Central and Bay Region<br>
+2nd Place in the Endurance Race in the Central and Bay Region<br>
+
+### 2016
+1st Place in Technical Reports in the Central and Bay Region<br>
+2nd Place in the Endurance Race in the Central and Bay Region<br>
+1st Place in the Sprint Race in the Central and Bay Region<br>
+
 ## Pictures 
 ![Image](Building%20Hull.JPG) <br>
 <figcaption> Building the hull for the boat. The clamps in the picture were meant to hold the sides together to give time for the epoxy we applied on those areas to cure. I was drilling a screw into the hull to provide more reinforcement to the overall structure. All of the materials seen were provided at a boat-building workshop sponsored by the Metropolitan Water District. </figcaption> <br>
