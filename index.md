@@ -1,14 +1,3 @@
-<head>
- <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136356923-1">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-136356923-1');
-</script>
-
- </head>
 ## What is Solar Boat?
 
 Solar Boat is an organization at Palos Verdes Peninsula High School that participates in the [Solar Cup](http://www.mwdh2o.com/inthecommunity/education-programs/Pages/Solar-Cup.aspx), the largest solar-powered boat race in the world.
