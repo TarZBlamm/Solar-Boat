@@ -18,7 +18,15 @@ Teams at participating schools have 9 months to construct a working solar-powere
 The competition itself takes place during May at Lake Skinner and goes on for 3 days.
 
 ## How does it work?
-In order to propel the boat, we utilized a motor mounted to the the boat which rotated a three-bladed propeller. The motor is powered by two twelve volt Odyssey Extreme PC 11000 batteries. Six solar panels are used to charge the batteries in the boat. The motor has several safety switches implemented so that the boat does not turn on by mistake.
+
+### Propulsion System
+The propulsion system consists of several components: a motor, the drive shaft, a three-bladed prop, a strut, the thrust bearing, gears, and a chain. The motor is connected through a series of gears and a chain to the motor shaft. In order to prevent the shaft from jerking to the point of sinking the boat, a strut is put in place to prevent the drive shaft from making sudden movements. A thrust bearing is connected to the drive shaft in order to effectively transfer all the thrust produced by the propellor linked to the drive shaft to the boat.
+
+### Steering System
+The boat is steered through a lever connected by a push-pull rod to a rudder at the back of the boat. The push-pull rod is linked to the lever via a bolt and nut. There is also a linkage assembly that mounts the push-pull rod to the rudder. In order to go left, you need to push the lever forward and backwards to go to the right.
+
+### Electrical System
+The electrical system in the boat is a fairly simple series circuit. The essentially components that make it up are the controller, contactor, safety switches, pedal, and the two twelve volt batteries. In order for the boat to actually run, all the safety switches must be activated. These switches are in place so as to prevent the boat’s motor from accidentally turning on. Additionally, there are fuses in place to break the circuit the second the current value gets too high. The contactor is a huge switch that is connected to the pedal in the front of boat that triggers when the pedal is pushed down. Ultimately, this boat’s motor wouldn’t turn at all if it weren’t for the two twelve volt batteries to power it.
 
 ## My History With the Program
 I was in the organization for four years. During that time, I went from a regular member to battery manager to co-president. My job as battery manager was to test and maintain the batteries used for the competition. This position taught me how to use a load tester, a device used to simulate real load conditions, to see how long the battery could remain at a working voltage level to power the motor. I picked up on this relatively quickly and was able to easily teach someone else how to manage the system. 
@@ -66,6 +74,6 @@ I made the following diagrams for the electrical report below using the Digi-Key
 <figcaption> Going through safety checks at the dock before racing in the sprint qualifiers. </figcaption><br>
 
 ![Image](Driving%20Boat.JPG)<br>
-<figcaption> Driving around one of the buoys on the endurance race course. The boat was steered using a push-pull rod which connected the lever to the rudder. </figcaption><br>
+<figcaption> Driving around one of the buoys on the endurance race course.</figcaption><br>
 
 
