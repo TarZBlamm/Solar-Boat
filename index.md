@@ -51,7 +51,7 @@ I made the following diagrams for the electrical report below using the Digi-Key
 <figcaption> Preparing the boat for the endurance event. The six solar panels on the boat were from Sacred Solar and the nominal power for each unit is 60 watts. With the batteries fully charged, this allowed for one and a half hours of run time at a speed of 15 miles per hour.</figcaption> <br>
 
 ![Image](At%20The%20Dock.JPG)<br>
-<figcaption> Going through safety checks at the dock before racing in the endurance event. </figcaption><br>
+<figcaption> Going through safety checks at the dock before racing in the sprint qualifiers. </figcaption><br>
 
 ![Image](Driving%20Boat.JPG)<br>
 <figcaption> Driving around one of the buoys on the endurance race course. The boat was steered using a push-pull rod which connected the lever to the rudder. </figcaption><br>
