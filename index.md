@@ -28,6 +28,9 @@ The boat is steered through a lever connected by a push-pull rod to a rudder at 
 ### Electrical System
 The electrical system in the boat is a fairly simple series circuit. The essentially components that make it up are the controller, contactor, safety switches, pedal, and the two twelve volt batteries. In order for the boat to actually run, all the safety switches must be activated. These switches are in place so as to prevent the boat’s motor from accidentally turning on. Additionally, there are fuses in place to break the circuit the second the current value gets too high. The contactor is a huge switch that is connected to the pedal in the front of boat that triggers when the pedal is pushed down. Ultimately, this boat’s motor wouldn’t turn at all if it weren’t for the two twelve volt batteries to power it.
 
+### Charging System
+The solar panels are connected to the batteries on the boat through maximum power point trackers (MPPT). The MPPTs are there to conform the current so as to not burn out any wires and have it stable enough to charge the batteries properly.
+
 More details about how the boat works below in the reports section.
 
 ## My History With the Program
