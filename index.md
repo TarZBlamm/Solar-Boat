@@ -74,6 +74,6 @@ I made the following diagrams for the electrical report below using the Digi-Key
 <figcaption> Going through safety checks at the dock before racing in the sprint qualifiers. </figcaption><br>
 
 ![Image](Driving%20Boat.JPG)<br>
-<figcaption> Driving around one of the buoys on the endurance race course.</figcaption><br>
+<figcaption> Driving around one of the buoys on the endurance race course. I felt exhilarated as I piloted the boat around the course.</figcaption><br>
 
 
